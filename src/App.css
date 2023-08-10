@@ -1,0 +1,17 @@
+.resident_container{
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.banner {
+    max-width: 100%; 
+    overflow: hidden; 
+  }
+  
+  .banner img {
+    width: 100%; 
+    height: auto; 
+    display: block; 
+  }
